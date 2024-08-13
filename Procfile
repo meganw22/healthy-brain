@@ -1,1 +1,1 @@
-web: gunicorn health-genie.wsgi
+web: gunicorn healthy-brain.wsgi
